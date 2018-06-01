@@ -4,6 +4,8 @@ import java.io.Serializable;
 import java.text.*;
 import java.util.*;
 
+import static java.util.Calendar.*;
+
 /**
  * An abstract class that defines our requirements for manipulating dates,
  * without tying down a particular implementation.
